@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The <Your App Name> - Expense Tracker App is designed to help you manage your finances effectively. Whether you're looking to track your spending, understand your financial habits, or plan a budget, this app has you covered.
+The <Your App Name> - Expense Tracker App is designed to help you manage your finances effectively. Aids to track your spending, understand your financial habits, or plan a budget.
 
 ## Features
 
